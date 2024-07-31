@@ -85,4 +85,4 @@ EDA involved exploring the sales data to answer key questions, categorized into 
 ## References
 - [How to Get Cumulative Sum](https://stackoverflow.com/questions/2120544/how-to-get-cumulative-sum)
 - [The Ultimate Guide to SQL Window Functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/)
-- [YouTube Video for this Data Analysis Project]([https://www.youtube.com/watch?v=hK-qUy3UfT8&ab_channel=WsCubeTech])
+- [YouTube Video for this Data Analysis Project](https://www.youtube.com/watch?v=hK-qUy3UfT8&ab_channel=WsCubeTech)
